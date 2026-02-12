@@ -81,9 +81,8 @@ Hi, I’m **Usman Ali (@usman3262)**
 ---
 
 ## 📬 Connect with Me
-🐦 Twitter: [@your_handle](https://twitter.com/your_handle)  
-💼 LinkedIn: [Usman Ali](https://www.linkedin.com/in/your-linkedin/)  
-📧 Email: `usman@example.com`
+💼 LinkedIn: [Usman Ali](https://www.linkedin.com/in/usman3262/)  
+📧 Email: `contact.usman.dev@gmail.com`
 
 ---
 
